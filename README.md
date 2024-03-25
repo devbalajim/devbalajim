@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Balaji M 👋
+
+A passionate Full-Stack Developer driven by the challenge of bringing visions to life through code. I specialize in creating user-friendly, scalable web products that exceed expectations. Let's connect and create something amazing together
+
+---
+
+<p>Thanks for visiting my GitHub account 😄. </p>
 
 <!--
 **devbalajim/devbalajim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
